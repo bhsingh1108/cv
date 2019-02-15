@@ -1,0 +1,48 @@
+body
+{
+	background-color:#1abc9c;
+}
+h1
+{
+	text-align: center;
+	background-color: white;
+	
+
+}
+
+h2{
+
+	font-size: 35px;
+	
+}                  
+.name
+{
+	
+	width:"70%";
+  float:left;
+  font-family:"Arial"
+  border-color: white
+  
+
+}
+.image
+{
+	float:right;
+	
+
+}
+.contact{
+	
+	border:groove;
+	width:25%;
+	}
+
+.aboutme
+{
+	background-color:	#bfff00;
+	width:100%;
+}
+.hobbies
+{
+	background-color: 	 #c2c2a3;
+}
